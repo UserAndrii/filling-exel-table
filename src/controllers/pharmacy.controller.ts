@@ -62,3 +62,23 @@ export const updatePharmacy = async (req: any, res: any) => {
     res.status(500).json({ message: "Failed to update pharmacy", error });
   }
 };
+
+export const deletePharmacy = async (req: any, res: any) => {
+  const { id } = req.params;
+
+  if (!mongoose.Types.ObjectId.isValid(id)) {
+    return res.status(400).json({ message: "Invalid ID format" });
+  }
+
+  try {
+    const deletedPharmacy = await Pharmacy.findByIdAndDelete(id);
+
+    if (!deletedPharmacy) {
+      return res.status(404).json({ message: "Pharmacy not found" });
+    }
+
+    res.json({ message: "Pharmacy deleted successfully" });
+  } catch (error) {
+    res.status(500).json({ message: "Failed to delete pharmacy", error });
+  }
+};

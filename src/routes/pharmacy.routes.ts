@@ -3,6 +3,7 @@ import { Router } from "express";
 
 import {
   createPharmacy,
+  deletePharmacy,
   getAllPharmacies,
   getPharmacyById,
   updatePharmacy,
@@ -258,7 +259,7 @@ router.get("/:id", getPharmacyById);
  *       500:
  *         description: Server error
  */
-router.post("/pharmacies", createPharmacy);
+router.post("/", createPharmacy);
 
 /**
  * @swagger
@@ -343,7 +344,67 @@ router.post("/pharmacies", createPharmacy);
  *       500:
  *         description: Server error
  */
+router.patch("/:id", updatePharmacy);
 
-router.patch("/pharmacies/:id", updatePharmacy);
+/**
+ * @swagger
+ * /api/pharmacies/{id}:
+ *   delete:
+ *     summary: Delete a pharmacy by ID
+ *     tags: [Pharmacies]
+ *     parameters:
+ *       - name: id
+ *         in: path
+ *         required: true
+ *         description: MongoDB ObjectId of the pharmacy to delete
+ *         schema:
+ *           type: string
+ *           example: 688d340c48cd147ca6a4aa8f
+ *     responses:
+ *       200:
+ *         description: Pharmacy deleted successfully
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 message:
+ *                   type: string
+ *                   example: Pharmacy deleted successfully
+ *       400:
+ *         description: Invalid ID format
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 message:
+ *                   type: string
+ *                   example: Invalid ID format
+ *       404:
+ *         description: Pharmacy not found
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 message:
+ *                   type: string
+ *                   example: Pharmacy not found
+ *       500:
+ *         description: Failed to delete pharmacy
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 message:
+ *                   type: string
+ *                   example: Failed to delete pharmacy
+ *                 error:
+ *                   type: string
+ *                   example: Internal server error message
+ */
+router.delete("/:id", deletePharmacy);
 
 export default router;
