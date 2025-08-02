@@ -40,17 +40,20 @@ Body: form-data
 **Labeled Cells Format:**
 Your Excel file should contain cells with labels starting with `@`:
 
+- `@city` - Pharmacy city
 - `@region` - Pharmacy region
 - `@respondent` - Responsible person name
 - `@pharmacyName` - Pharmacy name
+- `@fullAddress` - Pharmacy full address
 - `@address` - Pharmacy address
 - `@edrpou` - EDRPOU code
 - `@phone` - Phone number
 - `@experience` - Work experience
 - `@position` - Position title
 - `@ageCategory` - Age category
-- `@networkPharmacy` - Network pharmacy (true/false)
+- `@pharmacyType` - The pharmacy type
 - `@dailyPatients` - Daily patients count
+- `@employeeCount` - Pharmacy employee count
 
 ### Pharmacy Management
 
@@ -63,17 +66,21 @@ Get all pharmacies from database.
 ```json
 [
   {
+    "_id": "123",
+    "city": "Львів",
     "region": "Львівська",
     "respondent": "Вербовська Лілія Олексіївна",
     "pharmacyName": "Аптека Копійка",
-    "address": "м.Львів,пр.Червоної Калини 64",
+    "fullAddress": "м.Львів, пр.Червоної Калини 64",
+    "address": "пр.Червоної Калини 64",
     "edrpou": "39234989",
     "phone": "063-030-1943",
     "experience": "10+",
     "position": "завідуюча аптеки",
     "ageCategory": "31-45",
-    "networkPharmacy": true,
-    "dailyPatients": "20-30"
+    "pharmacyType": "Мережева аптека",
+    "dailyPatients": "20-30",
+    "employeeCount": "більше 5"
   }
 ]
 ```
@@ -87,6 +94,67 @@ Get specific pharmacy by MongoDB ObjectId.
 - `id` - MongoDB ObjectId
 
 **Response:** Single pharmacy object or 404 if not found.
+
+#### `POST /api/pharmacies`
+
+Create Pharmacy
+
+**Request:**
+
+- **Content-Type:** `application/json`
+- **Body:**
+
+```json
+{
+  "city": "Львів",
+  "region": "Львівська",
+  "respondent": "Вербовська Лілія Олексіївна",
+  "pharmacyName": "Аптека Копійка",
+  "address": "м.Львів, пр.Червоної Калини 64",
+  "edrpou": "39234989",
+  "phone": "063-030-1943",
+  "experience": "10+",
+  "position": "завідуюча аптеки",
+  "ageCategory": "31-45",
+  "pharmacyType": "Мережева аптека",
+  "dailyPatients": "20-30",
+  "employeeCount": "3-5 спеціалістів"
+}
+```
+
+**Response:** Single pharmacy object
+
+#### `PATCH /api/pharmacies/:id`
+
+Update the existing pharmacy using MongoDB ObjectId. Only the fields that need to be updated can be transferred.
+
+**Parameters:**
+
+- `id` — MongoDB ObjectId
+
+**Request:**
+
+- **Content-Type:** `application/json`
+- **Body (example):**
+
+```json
+{
+  "phone": "097-123-4567",
+  "experience": "5-10"
+}
+```
+
+**Response:** Single pharmacy object
+
+## Response Status Codes
+
+| Code | Description           |
+| ---- | --------------------- |
+| 201  | Pharmacy created      |
+| 200  | Pharmacy updated      |
+| 400  | Invalid format ID     |
+| 404  | Pharmacy not found    |
+| 500  | Internal server error |
 
 ## How It Works
 
