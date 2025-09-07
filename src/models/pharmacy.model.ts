@@ -15,6 +15,10 @@ const pharmacySchema = new Schema({
   pharmacyType: String,
   dailyPatients: String,
   employeeCount: String,
+  institutionType: String,
+  institutionName: String,
+  dosageForm: String,
+  manufacturer: String,
 });
 
 export const Pharmacy = model("Pharmacy", pharmacySchema, "pharmacies_lviv");
