@@ -12,8 +12,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м. Стрий",
@@ -28,8 +32,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Стрийська міська лікарня",
+    "dosageForm": "оральний розчин",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Дрогобич",
@@ -44,8 +52,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "капсули",
+    "manufacturer": "імпортний"
   },
   {
     "city": "м. Стрий",
@@ -60,8 +72,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "імпортний"
   },
   {
     "city": "м. Стрий",
@@ -76,15 +92,19 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "імпортний"
   },
   {
-    "city": "м.Кам\"янка -Бузька",
+    "city": "м.Кам'янка-Бузька",
     "region": "Львівська",
     "respondent": "Воробчак Вікторія Ігорівна",
     "pharmacyName": "Аптека 1-а соціальна",
-    "fullAddress": "м.Кам\"янка -Бузька, вул.Незалежності 57",
+    "fullAddress": "м.Кам'янка-Бузька, вул.Незалежності 57",
     "address": "вул.Незалежності 57",
     "edrpou": "32204434",
     "phone": "063-302-1802",
@@ -92,8 +112,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Кам'янка-Бузька ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Дрогобич",
@@ -108,8 +132,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "ФОП підприємець",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Дрогобич",
@@ -124,8 +152,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "капсули",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Борислав",
@@ -140,8 +172,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Бориславська міська лікарня",
+    "dosageForm": "капсули",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м. Миколаїв",
@@ -156,8 +192,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "ФОП підприємець",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Миколаївська ЦРЛ",
+    "dosageForm": "оральний розчин",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Львів",
@@ -172,8 +212,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "поліклініка",
+    "institutionName": "Міська поліклініка № 4",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Золочів",
@@ -188,8 +232,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Миколаївська ЦРЛ",
+    "dosageForm": "капсули",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Новий Розділ",
@@ -204,8 +252,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Новороздільська міська лікарня",
+    "dosageForm": "капсули",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Новий Розділ",
@@ -220,8 +272,12 @@
     "position": "провізор",
     "ageCategory": "до 30 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Новороздільська міська лікарня",
+    "dosageForm": "капсули",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Львів",
@@ -236,8 +292,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "до 30 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "поліклініка",
+    "institutionName": "Міська поліклініка № 4",
+    "dosageForm": "капсули",
+    "manufacturer": "імпортний"
   },
   {
     "city": "м. Дрогобич",
@@ -252,8 +312,12 @@
     "position": "провізор",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "імпортний"
   },
   {
     "city": "м.Буськ",
@@ -268,8 +332,12 @@
     "position": "провізор",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Буська ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Львів",
@@ -284,8 +352,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Аптека комунальної власності",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "поліклініка",
+    "institutionName": "Міська поліклініка № 2",
+    "dosageForm": "капсули",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Львів",
@@ -300,8 +372,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "поліклініка",
+    "institutionName": "Міська поліклініка № 4",
+    "dosageForm": "капсули",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Золочів",
@@ -316,8 +392,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Золочівська ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Трускавець",
@@ -332,8 +412,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Трускавецька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Золочів",
@@ -348,8 +432,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "ФОП підприємець",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "менше 3 фахівців"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "менше 3 фахівців",
+    "institutionType": "лікарня",
+    "institutionName": "Золочівська ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Щирець",
@@ -364,8 +452,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "3-5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "в межах 3-5",
+    "institutionType": "лікарня",
+    "institutionName": "Щирецька міська лікарня",
+    "dosageForm": "оральний розчин",
+    "manufacturer": "імпортний"
   },
   {
     "city": "м.Дрогобич",
@@ -380,8 +472,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Моршин",
@@ -396,8 +492,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "ФОП підприємець",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "менше 3 фахівців"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "менше 3 фахівців",
+    "institutionType": "лікарня",
+    "institutionName": "Моршинська міська лікарня",
+    "dosageForm": "капсули",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Сколе",
@@ -412,8 +512,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Сколівська ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м. Стрий",
@@ -428,8 +532,12 @@
     "position": "провізор",
     "ageCategory": "до 30 років",
     "pharmacyType": "ФОП підприємець",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Стрийська міська лікарня",
+    "dosageForm": "оральний розчин",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м. Новий Розділ",
@@ -444,15 +552,18 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "менше 3 фахівців"
+    "dailyPatients": "100-150 чол.",
+    "institutionType": "лікарня",
+    "institutionName": "Новороздільська міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
-    "city": "м.Кам\"янка- Бузька",
+    "city": "м.Кам'янка-Бузька",
     "region": "Львівська",
     "respondent": "Заболотська Ірина Іванівна",
     "pharmacyName": "аптека Пульс",
-    "fullAddress": "м.Кам\"янка- Бузька, вул.Незалежності 36",
+    "fullAddress": "м.Кам'янка-Бузька, вул.Незалежності 36",
     "address": "вул.Незалежності 36",
     "edrpou": "30478073",
     "phone": "067-453-9192",
@@ -460,8 +571,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Кам'янка-Бузька ЦРЛ",
+    "dosageForm": "капсули",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м. Радехів",
@@ -476,8 +591,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Радехівська ЦРЛ",
+    "dosageForm": "оральний розчин",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м. Трускавець",
@@ -492,8 +611,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Трускавецька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "Стрий",
@@ -508,8 +631,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Стрийська ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м. Борислав",
@@ -524,8 +651,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Бориславська міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Новий Розділ",
@@ -540,8 +671,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Новороздільська міська лікарняя",
+    "dosageForm": "капсули",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Новий Розділ",
@@ -556,8 +691,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Новороздільська міська лікарняя",
+    "dosageForm": "капсули",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Броди",
@@ -572,8 +711,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Бродівська ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Броди",
@@ -588,8 +731,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Бродівська ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Дрогобич",
@@ -604,8 +751,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Дрогобицька міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Стрий",
@@ -620,8 +771,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Стрийська міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Львів",
@@ -636,8 +791,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "8-а міська клінічна лікарня",
+    "dosageForm": "капсули",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Пустомити",
@@ -652,8 +811,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Пустомитівська ЦРЛ",
+    "dosageForm": "оральний розчин",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м.Пустомити",
@@ -668,8 +831,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Пустомитівська ЦРЛ",
+    "dosageForm": "капсули",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Львів",
@@ -684,8 +851,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Міська поліклініка № 2",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "імпортний"
   },
   {
     "city": "м.Львів",
@@ -700,8 +871,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Міська поліклініка № 2",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м. Стрий",
@@ -716,8 +891,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Стрийська міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м. Стебник",
@@ -732,8 +911,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Стебницька міська лікарня",
+    "dosageForm": "капсули",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м.Борислав",
@@ -748,8 +931,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "100-150 чол",
-    "employeeCount": "менше 3 фахівців"
+    "dailyPatients": "100-150 чол.",
+    "employeeCount": "менше 3 фахівців",
+    "institutionType": "лікарня",
+    "institutionName": "Бориславська ЦРЛ",
+    "dosageForm": "оральний розчин",
+    "manufacturer": "не має значення"
   },
   {
     "city": "м. Новий Розділ",
@@ -764,8 +951,12 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Новороздільська міська лікарня",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   },
   {
     "city": "м. Броди",
@@ -780,15 +971,19 @@
     "position": "завідуюча аптеки",
     "ageCategory": "більше 45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Бродівська ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "не має значення"
   },
   {
-    "city": "м.Кам\"янка-Бузька",
+    "city": "м.Кам'янка-Бузька",
     "region": "Львівська",
     "respondent": "Базалійська Оксана Вікторівна",
     "pharmacyName": "Аптека Скайінвест",
-    "fullAddress": "м.Кам\"янка-Бузька, вул.Шевченка 1",
+    "fullAddress": "м.Кам'янка-Бузька, вул.Шевченка 1",
     "address": "вул.Шевченка 1",
     "edrpou": "30765625",
     "phone": "098-489-6509",
@@ -796,7 +991,11 @@
     "position": "завідуюча аптеки",
     "ageCategory": "31-45 років",
     "pharmacyType": "Мережева аптека",
-    "dailyPatients": "до 100 чол",
-    "employeeCount": "більше 5 спеціалістів"
+    "dailyPatients": "до 100 чол.",
+    "employeeCount": "більше 5",
+    "institutionType": "лікарня",
+    "institutionName": "Кам'янка-Бузька ЦРЛ",
+    "dosageForm": "розчин для ін'єкцій",
+    "manufacturer": "вітчизняний"
   }
 ]
