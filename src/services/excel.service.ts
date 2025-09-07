@@ -96,9 +96,8 @@ export const fillExcelWithPharmacyDataExcelJS = async (
           const cellVal = cell.value;
           if (
             typeof cellVal === "string" &&
-            normalizeStringValue(cellVal).includes(
+            normalizeStringValue(cellVal) ===
               normalizeStringValue(String(markerValue))
-            )
           ) {
             if (colNumber > 1) {
               const leftCell = worksheet.getCell(rowNumber, colNumber - 1);
